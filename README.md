@@ -11,3 +11,4 @@ Some little scripts written by python or shell :
 9 defect_coord_center.py: a script to obtain the defect coordinations to be used with sxdefectalian
 10 dielect.py: A script to obtain the dielect constant with OUTCAR.
 11 m_n_supercell.py help to give m n vaules when cleave a surface
+12 heterojunction to build heterojunction by using with vaspkit and supercell.sh
